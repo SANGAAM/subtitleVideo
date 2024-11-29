@@ -6,9 +6,11 @@ A MERN-stack application that enables users to upload videos, extract subtitles,
 
 ## Output
 
-![Screenshot 2024-11-29 125239](https://github.com/user-attachments/assets/364078ac-1f0f-4682-af03-e7ff0cff5629)
+<img src="https://github.com/user-attachments/assets/364078ac-1f0f-4682-af03-e7ff0cff5629" alt="Screenshot 1" width="600" />
 
-![Screenshot (94)](https://github.com/user-attachments/assets/3cb21336-f6ce-4019-afd0-90aee3e74bc0)
+<img src="https://github.com/user-attachments/assets/3cb21336-f6ce-4019-afd0-90aee3e74bc0" alt="Screenshot 2" width="600" />
+
+---
 
 ## Features
 
